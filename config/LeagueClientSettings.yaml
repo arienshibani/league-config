@@ -1,0 +1,50 @@
+install:
+    crash_reporting:
+        enabled: true
+        type: "crashpad"
+    game-settings:
+        accountId: 2700861534283712
+        modified: false
+        timestamp: 0
+    gameflow-patcher-lock: 1724192732098
+    gameflow-process-info: null
+    gameflow-spectate-reconnect-info: null
+    globals:
+        locale: "en_US"
+        region: "EUW"
+    lcu-settings:
+        accountId: 2700861534283712
+        modified: false
+        timestamp: 0
+    patcher:
+        client_migrated: true
+        client_patcher_available: true
+        game_migrated: true
+        game_patcher_available: true
+        locales:
+        - "en_US"
+        toggles:
+            new_client_patcher: 0
+            new_game_patcher: 0
+    perks-settings:
+        accountId: 2700861534283712
+        modified: false
+        timestamp: 0
+    riot-id-announcement-settings:
+        accountId: 2700861534283712
+        modified: false
+        timestamp: 0
+    riotclient-upgrade:
+        recovery-failures: 1
+        seq-success-count: 184
+        success-count: 184
+    rso-auth:
+        install-identifier: "5e38e21d97329e428f9376023f45478d"
+    tft-settings:
+        accountId: 2700861534283712
+        modified: false
+        timestamp: 0
+    tft-team-plans-settings:
+        accountId: 2700861534283712
+        modified: false
+        timestamp: 0
