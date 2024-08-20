@@ -1,0 +1,19 @@
+team-data:
+    data:
+        hasViewedTeamPlanner: false
+        registeredTeamIndex: 0
+        remindersEnabled: true
+        teams:
+        -   champions:
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            -   championId: ""
+            setName: "TFTSet12"
+    schemaVersion: 2

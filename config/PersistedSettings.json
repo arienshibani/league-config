@@ -9,7 +9,7 @@
                     "settings": [
                         {
                             "name": "ColorBrightness",
-                            "value": "0.6300"
+                            "value": "0.8100"
                         },
                         {
                             "name": "ColorContrast",
@@ -17,11 +17,11 @@
                         },
                         {
                             "name": "ColorGamma",
-                            "value": "0.5000"
+                            "value": "0.3500"
                         },
                         {
                             "name": "ColorLevel",
-                            "value": "0.5000"
+                            "value": "1.0000"
                         }
                     ]
                 },
@@ -55,7 +55,7 @@
                     "settings": [
                         {
                             "name": "ColorPalette",
-                            "value": "0"
+                            "value": "1"
                         }
                     ]
                 },
@@ -157,7 +157,7 @@
                         },
                         {
                             "name": "GameMouseSpeed",
-                            "value": "9"
+                            "value": "7"
                         },
                         {
                             "name": "OSXMouseAcceleration",
@@ -206,7 +206,7 @@
                         },
                         {
                             "name": "ChatChannelVisibility",
-                            "value": "2"
+                            "value": "0"
                         },
                         {
                             "name": "ChatScale",
@@ -278,7 +278,7 @@
                         },
                         {
                             "name": "MapScrollSpeed",
-                            "value": "0.2900"
+                            "value": "0.5000"
                         },
                         {
                             "name": "MiddleClickDragScrollEnabled",
@@ -370,7 +370,7 @@
                         },
                         {
                             "name": "ShowOffScreenPointsOfInterest",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowPlayerPerks",
@@ -521,7 +521,7 @@
                         },
                         {
                             "name": "AmbienceVolume",
-                            "value": "0.7500"
+                            "value": "0.0000"
                         },
                         {
                             "name": "AnnouncerMute",
@@ -529,7 +529,7 @@
                         },
                         {
                             "name": "AnnouncerVolume",
-                            "value": "0.5000"
+                            "value": "0.2500"
                         },
                         {
                             "name": "MasterMute",
@@ -537,11 +537,11 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.0800"
+                            "value": "0.2100"
                         },
                         {
                             "name": "MusicMute",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "MusicVolume",
@@ -553,7 +553,7 @@
                         },
                         {
                             "name": "PingsVolume",
-                            "value": "0.5000"
+                            "value": "0.2500"
                         },
                         {
                             "name": "SfxMute",
@@ -561,7 +561,7 @@
                         },
                         {
                             "name": "SfxVolume",
-                            "value": "0.7000"
+                            "value": "0.7500"
                         },
                         {
                             "name": "VoiceMute",
@@ -569,7 +569,7 @@
                         },
                         {
                             "name": "VoiceVolume",
-                            "value": "0.7300"
+                            "value": "0.0000"
                         }
                     ]
                 }

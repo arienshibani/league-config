@@ -1,0 +1,59 @@
+lol-audio:
+    data:
+        ambientSfxEnabled: false
+        masterSoundEnabled: true
+        musicEnabled: false
+        sfxEnabled: true
+        sfxVolume: 4
+        voiceEnabled: true
+        voiceVolume: 2
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_37161"
+        - "registration_open_tournament_36841"
+        - "lock_in_open_tournament_37001_phase_36281"
+        - "lock_in_open_tournament_36841_phase_36101"
+        - "lock_in_open_tournament_36921_phase_36201"
+        - "registration_open_tournament_36901"
+        - "registration_open_tournament_37001"
+        - "registration_open_tournament_37021"
+        - "lock_in_open_tournament_37081_phase_36381"
+        - "lock_in_open_tournament_37021_phase_36301"
+        - "lock_in_open_tournament_37181_phase_36501"
+        - "registration_open_tournament_37201"
+        - "lock_in_open_tournament_37201_phase_36521"
+        - "lock_in_open_tournament_37221_phase_36541"
+        - "registration_open_tournament_37241"
+        - "registration_open_tournament_37281"
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 50
+        vadSensitivity: 65
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+        unloadLeagueClientUx: "always"
+    schemaVersion: 3
+lol-vanguard:
+    data:
+        systemCheckLastSeen: 1713300849464
+        systemCheckPassed: true
+    schemaVersion: 1

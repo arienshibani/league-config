@@ -1,0 +1,184 @@
+page-settings:
+    data:
+        pages: []
+        perShardPerkBooks:
+            euw1:
+                currentPageId: 629228557
+                pages:
+                -   autoModifiedSelections: []
+                    current: true
+                    id: 629228557
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1724192246663
+                    name: "Blitz: Seraphine Support"
+                    order: 1
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/SummonAery/SummonAery.png"
+                        id: 8214
+                        name: "Summon Aery"
+                        slotType: "kKeyStone"
+                        styleId: 8200
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
+                    primaryStyleId: 8200
+                    primaryStyleName: "Sorcery"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Resolve"
+                    selectedPerkIds:
+                    - 8214
+                    - 8226
+                    - 8210
+                    - 8237
+                    - 8463
+                    - 8453
+                    - 5007
+                    - 5008
+                    - 5011
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/p8200_s8400_k8214.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/SummonAery/SummonAery.png"
+                        id: 8214
+                        name: "Summon Aery"
+                        slotType: "kKeyStone"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/ManaflowBand/ManaflowBand.png"
+                        id: 8226
+                        name: "Manaflow Band"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Transcendence/Transcendence.png"
+                        id: 8210
+                        name: "Transcendence"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Scorch/Scorch.png"
+                        id: 8237
+                        name: "Scorch"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/FontOfLife/FontOfLife.png"
+                        id: 8463
+                        name: "Font of Life"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Revitalize/Revitalize.png"
+                        id: 8453
+                        name: "Revitalize"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsCDRScalingIcon.png"
+                        id: 5007
+                        name: "Ability Haste"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthScalingIcon.png"
+                        id: 5011
+                        name: "Health"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1024185971
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1724192229292
+                    name: "Aurora Support"
+                    order: 2
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/Electrocute/Electrocute.png"
+                        id: 8112
+                        name: "Electrocute"
+                        slotType: "kKeyStone"
+                        styleId: 8100
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/domination_icon_16.svg"
+                    primaryStyleId: 8100
+                    primaryStyleName: "Domination"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
+                    secondaryStyleName: "Sorcery"
+                    selectedPerkIds:
+                    - 8112
+                    - 8143
+                    - 8138
+                    - 8106
+                    - 8234
+                    - 8232
+                    - 5005
+                    - 5008
+                    - 5011
+                    subStyleId: 8200
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/p8100_s8200_k8112.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/Electrocute/Electrocute.png"
+                        id: 8112
+                        name: "Electrocute"
+                        slotType: "kKeyStone"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/SuddenImpact/SuddenImpact.png"
+                        id: 8143
+                        name: "Sudden Impact"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/EyeballCollection/EyeballCollection.png"
+                        id: 8138
+                        name: "Eyeball Collection"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png"
+                        id: 8106
+                        name: "Ultimate Hunter"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Celerity/CelerityTemp.png"
+                        id: 8234
+                        name: "Celerity"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Waterwalking/Waterwalking.png"
+                        id: 8232
+                        name: "Waterwalking"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
+                        id: 5005
+                        name: "Attack Speed"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthScalingIcon.png"
+                        id: 5011
+                        name: "Health"
+                        slotType: "kStatMod"
+                        styleId: 8400
+        settings:
+            gameplayPatchVersionSeen: "11.23"
+            gameplayUpdatedPerksSeen: []
+            gridModeEnabled: true
+            showLongDescriptions: true
+            showPresetPages: true
+    schemaVersion: 5

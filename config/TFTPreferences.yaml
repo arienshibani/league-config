@@ -1,0 +1,19 @@
+CustomButtonPopupViewed: true
+PlaybookHelpViewed: true
+Playbook_CTASeen_TFT9: true
+TFTBattlepassVersionViewed: 36
+TFTCoinsPromoViewed: 1
+TFTDaysPlayed: 3
+TFTEventVersionViewed: "TFT9_DarkLaunch_Series"
+TFTLabModalViewed_RANKED_TFT_DOUBLE_UP: true
+TFTLastDayPlayed: "06-18-2023"
+TFTLastSetPlayed: "TFTSet9"
+TFTLastSetPrompted: "TFTSet9"
+VersionsSeen:
+    data:
+        eventHub: 1
+        rotational-shop-mythic: 1
+        rotational-shop-nav: 1
+    schemaVersion: 0
+tft_first_game: true
+tft_last_login_date: 20230718
